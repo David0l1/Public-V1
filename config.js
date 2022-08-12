@@ -115,7 +115,7 @@ global.author = '┄┄┄┅┅❑ DAVID ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg''' //Main Thumbnail
+global.thumb = 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg' //Main Thumbnail
 global.imagebot = 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg'
 global.giflogo = 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg'
 global.thumbs = ['https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg', 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg', 'https://express-uploader.dapitt.repl.co/file/Rhs6EoZuY09d.jpg']
