@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">OneeBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/kannachann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/David0l1"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=One+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+David;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 <a href="https://github.com/David0l1/Public-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/David0l1/Public-V1?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/David0l1/Public-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/David0l1/Public-V1/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/David0l1/Public-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/David0l1/Public-V1?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/David0l1/Public-V1/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/David0l1/Public-V1?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/issues"><img title="Issues" src="https://img.shields.io/github/issues/David0l1/Public-V1?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/David0l1/Public-V1?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/David0l1/Public-V1?label=PullRequest&color=success&style=flat-square"></a>
