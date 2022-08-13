@@ -13,7 +13,7 @@
 <a href="https://github.com/davidpangrib001"><img title="Author" src="https://img.shields.io/badge/AUTHOR-David-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/David0l1/Public-V1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/David0l1/Public-V1?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/David0l1/Public-V1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/David0l1/Public-V1/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/David0l1/Public-V1?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/David0l1/Public-V1?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/David0l1/Public-V1?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/David0l1/Public-V1/issues"><img title="Issues" src="https://img.shields.io/github/issues/David0l1/Public-V1?label=Issues&color=success&style=flat-square"></a>
@@ -23,51 +23,51 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  <a href="https://wa.me/447578881250">
+    <img align="left" alt="DAVID | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@knchann">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  <a href="https://www.tiktok.com/@david_8l2?_t=8UmjZmMVInq&_r=1">
+    <img align="left" alt="DAVID | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ppiowy_/">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/davidpangrib001/">
+    <img align="left" alt="DAVID | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:kannachann@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  <a href="mailto:davidpangrib001@gmail.com">
+    <img align="left" alt="DAVID | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/447578881250"> <img align="left" alt="DAVID | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282128475388) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447578881250) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
 ---------
 
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/kannachann) |
-| **No Internet** |[✔️](https://github.com/kannachann) |
-| **Simple** |[✔️](https://github.com/kannachann) |
-| **Button template** |[✔️](https://github.com/kannachann) |
-| **Multi Device** |[✔️](https://github.com/kannachann) |
+| **Fast Respon** |[✔️](https://github.com/davidpangrib001) |
+| **No Internet** |[✔️](https://github.com/davidpangrib001) |
+| **Simple** |[✔️](https://github.com/davidpangrib001) |
+| **Button template** |[✔️](https://github.com/davidpangrib001) |
+| **Multi Device** |[✔️](https://github.com/davidpangrib001) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/kannachann) |
-| **Internet** |[✔️](https://github.com/kannachann) |
-| **Game Rpg** |[✔️](https://github.com/kannachann) |
-| **Nsfw** |[✖️](https://github.com/kannachann) |
-| **Sticker** |[✔️](https://github.com/kannachann) |
-| **Game** |[✔️](https://github.com/kannachann) |
-| **Kerang Ajaib** |[✔️](https://github.com/kannachann) |
-| **Quotes** |[✔️](https://github.com/kannachann) |
-| **Anime** |[✔️](https://github.com/kannachann) |
-| **Premium** |[✖️](https://github.com/kannachann) |
-| **Tools** |[✔️](https://github.com/kannachann) |
-| **Exec** |[✔️](https://github.com/kannachann) |
-| **React** |[✔️](https://github.com/kannachann) |
+| **Downloader** |[✔️](https://github.com/davidpangrib001) |
+| **Internet** |[✔️](https://github.com/davidpangrib001) |
+| **Game Rpg** |[✔️](https://github.com/davidpangrib001) |
+| **Nsfw** |[✖️](https://github.com/davidpangrib001) |
+| **Sticker** |[✔️](https://github.com/davidpangrib001) |
+| **Game** |[✔️](https://github.com/davidpangrib001) |
+| **Kerang Ajaib** |[✔️](https://github.com/davidpangrib001) |
+| **Quotes** |[✔️](https://github.com/davidpangrib001) |
+| **Anime** |[✔️](https://github.com/davidpangrib001) |
+| **Premium** |[✖️](https://github.com/davidpangrib001) |
+| **Tools** |[✔️](https://github.com/davidpangrib001) |
+| **Exec** |[✔️](https://github.com/davidpangrib001) |
+| **React** |[✔️](https://github.com/davidpangrib001) |
 ---------
 
 ## `SETTING`
@@ -78,7 +78,7 @@
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/David0l1/Public-V1)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -92,8 +92,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/kannachann/KannaBOT-MD/
-$ cd KannaBOT-MD
+$ git clone https://github.com/David0l1/Public-V1/
+$ cd Public-V1
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -135,8 +135,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
+git clone https://github.com/David0l1/Public-V1/
+cd Public-V1
 npm install
 npm update
 ```
@@ -151,8 +151,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/kannachann/KannaBOT-MD/
-cd KannaBOT-MD
+git clone https://github.com/David0l1/Public-V1/
+cd Public-V1
 npm install
 npm update
 ```
@@ -241,17 +241,17 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/kannachann)
-* [`My parents`](https://github.com/kannachann)
-* [`All Friends`](https://github.com/kannachann)
-* [`All Contributors`](https://github.com/kannachann)
-* [`All Creator Bot`](https://github.com/kannachann)
+* [`Allah SWT`](https://github.com/davidpangrib001)
+* [`My parents`](https://github.com/davidpangrib001)
+* [`All Friends`](https://github.com/davidpangrib001)
+* [`All Contributors`](https://github.com/davidpangrib001)
+* [`All Creator Bot`](https://github.com/davidpangrib001)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/kannachann.png?size=100)](https://github.com/kannachann)
+[![kannachann](https://github.com/davidpangrib001.png?size=100)](https://github.com/davidpangrib001)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
