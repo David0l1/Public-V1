@@ -1,16 +1,16 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.pinimg.com/736x/15/c5/fc/15c5fc146053dfc0539df08d27cc7f7e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD</h1>
+<h1 align="center">OneeBOT - MD</h1>
 <p align="center">
   <a href="https://github.com/kannachann"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="OneeBOT" src="https://img.shields.io/badge/Onee BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/davidpangrib00q"><img title="Author" src="https://img.shields.io/badge/AUTHOR-David-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/kannachann/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/kannachann/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
